@@ -1,0 +1,17 @@
+Algoritma: Gaji17
+
+Deklarasi:
+jmlMasuk, JmlTdkmasuk, gaji, PotGaji, Totgaji : int
+# gaji-40000, PotGaji-25000 : int
+
+Deskripsi:
+1. print "Masukkan Gaji"
+2. read gaji
+3. print "Masukkan PotGaji"
+4. read PotGaji
+5. print "Masukkan Jumlah Hari Masuk Anda"
+6. read jmlMasuk
+7. print "Masukkan Jumkah Hari Tidak Masuk Anda"
+8. read JmlTdkmasuk
+9. Totgaji=(jmlMasuk*gaji)-(JmlTdkmasuk*Potgaji)
+10. print Totgaji

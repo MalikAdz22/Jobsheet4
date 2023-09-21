@@ -1,0 +1,16 @@
+Algoritma:Lingkaran17
+{dibaca jari-jari lingkaran dari piranti masukan. Hitunglah keliling dan luas lingkaran tersebut}
+
+
+Deklarasi:
+r              :int
+keliling, luas :double
+
+
+Deskripsi:
+1. print "masukkan jari-jari lingkaran!"
+2. read r
+3. keliling = 2*phi*r
+4. luas = phi*r*r
+5. print keliling
+6. print luas   
